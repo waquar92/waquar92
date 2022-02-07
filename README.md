@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waquar92
-- 👀 I’m interested in learning things no matter what it is.
+- 👀 I’m interested in learning things no matter what it is. (Off Course related to my interests)
 - 🌱 I’m currently learning cloud.
 - 💞️ I’m looking to collaborate on cloud based operations.
 - 📫 How to reach me ...emailme
