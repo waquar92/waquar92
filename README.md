@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @waquar92
 - 👀 I’m interested in learning things no matter what it is. (Off Course related to my interests)
 - 🌱 I’m currently learning cloud related technologies.
-- 💞️ I’m looking to collaborate on cloud based operations.
-- 📫 How to reach me ...https://www.linkedin.com/in/waquar-a-302322108/
+- 💞️ I’m looking to collaborate on cloud based technologies.
+- 📫 How to reach me ...https://www.linkedin.com/in/waquar-a-302322108/ and @waquar
 
 <!---
 waquar92/waquar92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
